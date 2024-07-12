@@ -1,0 +1,13 @@
+command
+takeoff
+stop
+delay 3
+speed 10
+forward 300
+flip f
+delay 3
+cw 180
+delay 3
+speed 100
+forward 300
+land
